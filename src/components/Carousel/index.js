@@ -32,16 +32,17 @@ function Carousel({
           }
 
           return (
-            <SliderItem key={video.titulo}>
-              <VideoCard
-                videoTitle={video.titulo}
-                videoURL={video.url}
-                categoryColor={categoryColor}
-              />
+              <SliderItem key={video.url}>
+                <VideoCard
+                  videoTitle={video.titulo}
+                  videoURL={video.url}
+                  categoryColor={categoryColor}
+                />
+
               <VideoTitleDiv>
                 <h3>{video.titulo}</h3>
               </VideoTitleDiv>
-            </SliderItem>
+              </SliderItem>
           );
         })}
       </Slider>

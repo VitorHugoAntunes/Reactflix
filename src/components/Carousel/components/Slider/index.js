@@ -10,10 +10,9 @@ const Container = styled.ul`
   .slick-prev,
   .slick-next {
     z-index: 50;
-    bottom: 0;
-    width: 30px;
-    height: 30px;
-    transform: initial;
+    width: 50px;
+    height: 50px;
+    top:38%;
     &:before {
       font-size: 30px;
     }
@@ -29,6 +28,7 @@ const Container = styled.ul`
 
 export const SliderItem = styled.li`
   margin-right: 35px;
+  list-style-type: none;
   img {
     margin: 24px;
     width: 298px;
@@ -46,7 +46,6 @@ const Slider = ({ children }) => (
       speed: 300,
       centerMode: false,
       variableWidth: true,
-      adaptiveHeight: true,
     }}
     >
       {children}

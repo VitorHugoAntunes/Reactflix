@@ -21,7 +21,10 @@ export const Title = styled.h3`
 export const ExtraLink = styled.a`
   margin-left: 16px;
   text-decoration: none;
+  position: absolute;
+  margin-top: 58px;
   transition: opacity .3s;
+  top: 5px;
   &:hover,
   &:focus {
     opacity: .5;
@@ -52,6 +55,7 @@ export const VideoCardGroupContainer = styled.section`
   min-height: 197px;
   margin-left: 5%;
   margin-bottom: 20px;
+  position: relative;
 `;
 
 export const VideoTitleDiv = styled.div`
