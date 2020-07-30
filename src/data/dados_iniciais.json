@@ -1,46 +1,30 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Cursos gratuitos de programação",
+      "link": "https://www.udemy.com/?utm_source=adwords-brand&utm_medium=udemyads&utm_campaign=NEW-AW-PROS-Branded-Search-PT-BRA_._ci__._sl_BRA_._vi__._sd_All_._la_PT_._&tabei=7&utm_term=_._ag_53604040238_._ad_438170233657_._de_c_._dm__._pl__._ti_kwd-310556426868_._li_1031811_._pd__._&gclid=CjwKCAjw34n5BRA9EiwA2u9k36yVe-C18Gx80XH6dPTT7CLm-bbOlr5NKJgH30j0-gI8AP7i2jw3hRoChsIQAvD_BwE",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Clique aqui para ver mais cursos",
+        "url": "https://www.udemy.com/?utm_source=adwords-brand&utm_medium=udemyads&utm_campaign=NEW-AW-PROS-Branded-Search-PT-BRA_._ci__._sl_BRA_._vi__._sd_All_._la_PT_._&tabei=7&utm_term=_._ag_53604040238_._ad_438170233657_._de_c_._dm__._pl__._ti_kwd-310556426868_._li_1031811_._pd__._&gclid=CjwKCAjw34n5BRA9EiwA2u9k36yVe-C18Gx80XH6dPTT7CLm-bbOlr5NKJgH30j0-gI8AP7i2jw3hRoChsIQAvD_BwE"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Iniciando com React Native | Diego Fernandes",
+          "url": "https://www.youtube.com/watch?v=XcU9GEUZTQA"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
-        },
+          "titulo": "001 - ReactJS - INTRODUÇÃO",
+          "url": "https://www.youtube.com/watch?v=C8M94QLJy0o&list=PLXik_5Br-zO9YVs9bxi7zoQlKq59VPTX1"
+        },   
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
-        },
+          "titulo": "O que o JavaScript é capaz de fazer? - Curso JavaScript #01",
+          "url": "https://www.youtube.com/watch?v=Ptbk2af68e8"
+        },   
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
-        },
-        {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
-        },
-        {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "Python para Machine Learning (Curso - Aula 1)",
+          "url": "https://www.youtube.com/watch?v=MmSXHCxDwBs&list=PLyqOvdQmGdTR46HUxDA6Ymv4DGsIjvTQ-"
+        }       
       ]
     },
     {

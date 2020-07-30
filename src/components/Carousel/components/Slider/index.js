@@ -6,12 +6,11 @@ import styled from 'styled-components';
 const Container = styled.ul`
   padding: 0;
   margin: 0;
+  margin-top: 30px;
   .slick-prev,
   .slick-next {
     z-index: 50;
-    top: 0;
     bottom: 0;
-    margin: auto;
     width: 30px;
     height: 30px;
     transform: initial;
@@ -29,9 +28,9 @@ const Container = styled.ul`
 `;
 
 export const SliderItem = styled.li`
-  margin-right: 16px;
+  margin-right: 35px;
   img {
-    margin: 16px;
+    margin: 24px;
     width: 298px;
     height: 197px;
     object-fit: cover;

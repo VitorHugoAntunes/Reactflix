@@ -26,6 +26,7 @@ export const ExtraLink = styled.a`
   &:focus {
     opacity: .5;
   }
+
   @media (max-width: 800px) {
     display: block;
     margin-bottom: 16px;
@@ -36,7 +37,6 @@ export const ExtraLink = styled.a`
 export const VideoCardList = styled.ul`
   margin: 0;
   padding-left: 0;
-  padding-bottom: 32px;
   list-style: none;
   display: flex;
   overflow-x: auto;
@@ -51,5 +51,10 @@ export const VideoCardGroupContainer = styled.section`
   color: white;
   min-height: 197px;
   margin-left: 5%;
-  margin-bottom: 16px;
+  margin-bottom: 20px;
 `;
+
+export const VideoTitleDiv = styled.div`
+  margin-top: 10px;
+  max-width: 298px;
+`
